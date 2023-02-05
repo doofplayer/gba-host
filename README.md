@@ -20,6 +20,6 @@ If you saw a page load, good job! Everything is successful so far. Now you can s
 # Notes!
 Please note that this may take a long time to deploy. Like a really long time. GBA games alone make deployment 25 mins, and this include more consoles. 
 If you choose to clone this repository locally for any reason, please note that the roms will take up about 7-8GBs of local storage. 
-
+ 
 # Contributions! 
 If you wish to help contribute, feel free to make a pull request! Try not to modify the folders included, as we may reject any additions not organized into a folder. As long as you create a new folder on the root, or create a folder inside the existing ones, we will happily take contributions!
